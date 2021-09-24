@@ -8,7 +8,7 @@ var num6 = 6;
 
 var product = num4 * num6;
 
-favoriteFoods = ["poke", "pad see ew", "fried okra"];
+var favoriteFoods = ["poke", "pad see ew", "fried okra"];
 favoriteFoods.shift;
 
 var numOfLetters = movie.length;
